@@ -1,0 +1,15 @@
+K:\users\GStoddard\Temp Chamber Control\Thermal Chamber GUI\Thermal Chamber GUI\bin\Debug\Thermal Chamber GUI.exe.config
+K:\users\GStoddard\Temp Chamber Control\Thermal Chamber GUI\Thermal Chamber GUI\obj\Debug\Thermal Chamber GUI.vbprojResolveAssemblyReference.cache
+K:\users\GStoddard\Temp Chamber Control\Thermal Chamber GUI\Thermal Chamber GUI\obj\Debug\Thermal_Chamber_GUI.Form1.resources
+K:\users\GStoddard\Temp Chamber Control\Thermal Chamber GUI\Thermal Chamber GUI\obj\Debug\Thermal_Chamber_GUI.Resources.resources
+K:\users\GStoddard\Temp Chamber Control\Thermal Chamber GUI\Thermal Chamber GUI\obj\Debug\Thermal Chamber GUI.vbproj.GenerateResource.Cache
+K:\users\GStoddard\Temp Chamber Control\Thermal Chamber GUI\Thermal Chamber GUI\obj\Debug\Thermal Chamber GUI.xml
+K:\users\GStoddard\Temp Chamber Control\Thermal Chamber GUI\Thermal Chamber GUI\bin\Debug\Thermal Chamber GUI.exe
+K:\users\GStoddard\Temp Chamber Control\Thermal Chamber GUI\Thermal Chamber GUI\bin\Debug\Thermal Chamber GUI.pdb
+K:\users\GStoddard\Temp Chamber Control\Thermal Chamber GUI\Thermal Chamber GUI\bin\Debug\Thermal Chamber GUI.xml
+K:\users\GStoddard\Temp Chamber Control\Thermal Chamber GUI\Thermal Chamber GUI\obj\Debug\Thermal Chamber GUI.exe
+K:\users\GStoddard\Temp Chamber Control\Thermal Chamber GUI\Thermal Chamber GUI\obj\Debug\Thermal Chamber GUI.pdb
+C:\Users\IRDLab\Desktop\Thermal Chamber GUI\bin\Debug\Thermal Chamber GUI.exe.config
+C:\Users\IRDLab\Desktop\Thermal Chamber GUI\obj\Debug\Thermal Chamber GUI.exe
+C:\Users\IRDLab\Desktop\Thermal Chamber GUI\obj\Debug\Thermal Chamber GUI.xml
+C:\Users\IRDLab\Desktop\Thermal Chamber GUI\obj\Debug\Thermal Chamber GUI.pdb

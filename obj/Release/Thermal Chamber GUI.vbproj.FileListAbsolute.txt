@@ -1,0 +1,11 @@
+K:\users\GStoddard\Temp Chamber Control\Thermal Chamber GUI\Thermal Chamber GUI\bin\Release\Thermal Chamber GUI.exe.config
+K:\users\GStoddard\Temp Chamber Control\Thermal Chamber GUI\Thermal Chamber GUI\bin\Release\Thermal Chamber GUI.exe
+K:\users\GStoddard\Temp Chamber Control\Thermal Chamber GUI\Thermal Chamber GUI\bin\Release\Thermal Chamber GUI.pdb
+K:\users\GStoddard\Temp Chamber Control\Thermal Chamber GUI\Thermal Chamber GUI\bin\Release\Thermal Chamber GUI.xml
+K:\users\GStoddard\Temp Chamber Control\Thermal Chamber GUI\Thermal Chamber GUI\obj\Release\Thermal Chamber GUI.vbprojResolveAssemblyReference.cache
+K:\users\GStoddard\Temp Chamber Control\Thermal Chamber GUI\Thermal Chamber GUI\obj\Release\Thermal_Chamber_GUI.Form1.resources
+K:\users\GStoddard\Temp Chamber Control\Thermal Chamber GUI\Thermal Chamber GUI\obj\Release\Thermal_Chamber_GUI.Resources.resources
+K:\users\GStoddard\Temp Chamber Control\Thermal Chamber GUI\Thermal Chamber GUI\obj\Release\Thermal Chamber GUI.vbproj.GenerateResource.Cache
+K:\users\GStoddard\Temp Chamber Control\Thermal Chamber GUI\Thermal Chamber GUI\obj\Release\Thermal Chamber GUI.exe
+K:\users\GStoddard\Temp Chamber Control\Thermal Chamber GUI\Thermal Chamber GUI\obj\Release\Thermal Chamber GUI.xml
+K:\users\GStoddard\Temp Chamber Control\Thermal Chamber GUI\Thermal Chamber GUI\obj\Release\Thermal Chamber GUI.pdb
